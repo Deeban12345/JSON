@@ -3,6 +3,10 @@
     {       
      "ProductName": "SamSung",
      "Quantity": 1
+   },
+    {       
+     "ProductName": "Nokia",
+     "Quantity": 5
    }
   ] 
 }
