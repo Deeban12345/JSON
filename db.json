@@ -1,1 +1,8 @@
-[{"ProductName":"Moto", "Quantity": 2},{"ProductName":"Samsung", "Quantity": 4}]
+{
+  "Products" : [
+    {       
+     "ProductName": "SamSung",
+     "Quantity": 1
+   }
+  ] 
+}
