@@ -1,8 +1,8 @@
 {
   "Products": [
-    {
-      "Quantity": 1,
-      "ProductName": "SamSungProduct"
+    {      
+      "ProductName": "SamSungProduct",
+      "Quantity": 1
     }
   ] 
 }
