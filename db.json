@@ -2,8 +2,8 @@
   "Books" : [
     {       
       "id" : 1,
-     "Title": "FGS",
-     "Author": 1
+     "ProductName": "FGS",
+     "Quantity": 1
     
    }
   ] 
