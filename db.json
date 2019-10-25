@@ -3,7 +3,12 @@
     {       
       "id" : 1,
      "ProductName": "FGS",
-     "Quantity": 1
+     "Quantity": 1,
+      "ISBN": "test",
+      "PublicationDate" :"07-08-2010",
+      "Price": "50.00",
+      "Genre": "Comedy",
+      "Format": "PDF"
     
    }
   ] 
