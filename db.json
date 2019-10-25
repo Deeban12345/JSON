@@ -3,32 +3,8 @@
     {       
       "id" : 1,
      "Title": "FGS",
-     "Author": 1,
-      "ISBN": "SamSung",
-      "Publication Date": "SamSung",
-      "Price": "SamSung",
-      "Genre": "SamSung",
-      "Format": "PDF"
-   },
-    {     
-     "id" : 2,
-     "Title": "ABC",
-     "Author": 1,
-      "ISBN": "SamSung",
-      "Publication Date": "SamSung",
-      "Price": "SamSung",
-      "Genre": "SamSung",
-      "Format": "PDF"
-   },
-    {     
-      "id" : 3,
-     "Title": "XYZ",
-     "Author": 1,
-      "ISBN": "SamSung",
-      "Publication Date": "SamSung",
-      "Price": "SamSung",
-      "Genre": "SamSung",
-      "Format": "PDF"
+     "Author": 1
+    
    }
   ] 
 }
